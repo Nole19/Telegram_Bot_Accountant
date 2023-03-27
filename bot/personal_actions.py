@@ -1,7 +1,7 @@
 from aiogram import types
-from handlers.dispatcher import dp
+from dispatcher import dp
 import re
-from handlers.bot import BotDB
+from bot import BotDB
 
 
 @dp.message_handler(commands="start")
