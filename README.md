@@ -1,6 +1,3 @@
-Telegram Accountant Bot
-
-
 # Telegram bot Account
 
 
