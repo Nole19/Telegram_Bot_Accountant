@@ -1,0 +1,3 @@
+[submodule "libs/MacbookM1"]
+	path = libs/MacbookM1
+	url = git@github.com:Nole19/MacbookM1.git
